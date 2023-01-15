@@ -1,0 +1,300 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ANYAR",
+      "image": "file:///android_asset/image/RA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/RL.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ANYAR",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE1.mp3",
+      "lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas<br />Aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi</p>"
+	},
+    {
+      "id": 2,
+      "name_category": "ANYAR",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE2.mp3",
+      "lyrics": "<p>Mungkin<br />Aku terlalu cinta<br />Aku terlalu sayang nganti<br />Ra kroso dilarani</p><p><br />Pancen<br />Ku akui kusalah<br />Terlalu percoyo mergo<br />Mung nyawang rupo</p><p><br />Saiki aku wes sadar<br />Terlalu goblok mencintaimu</p><p><br />Rungkad<br />Entek entek an<br />Kelangan koe sing paling tak sayang<br />Bondoku melayang tego tenan<br />Tangis tangisan</p><p><br />Rungkad<br />Entek entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Mungkin<br />Aku terlalu cinta<br />Aku terlalu sayang nganti<br />Ra kroso dilarani</p><p><br />Pancen<br />Ku akui kusalah<br />Terlalu percoyo mergo<br />Nyawang rupo</p><p><br />Saiki aku wes sadar<br />Terlalu goblok mencintaimu</p><p><br />Rungkad<br />Entek entek an<br />Kelangan koe sing paling tak sayang<br />Bondoku melayang tego tenan<br />Tangis tangisan</p><p><br />Rungkad<br />Entek entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Rungkad<br />Entek entek an<br />Kelangan koe sing paling tak sayang<br />Bondoku melayang tego tenan<br />Tangis tangisan</p><p><br />Rungkad<br />Entek entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu<br />Gawe aku ngelu</p><p><br />Stop mencintaimu<br />Gawe aku ngelu</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "ANYAR",
+      "title": "INFONE MASE",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE3.mp3",
+      "lyrics": "<p>Nganti ndangak ndangak mase<br />Aku kalah sak sembarangane<br />Trus piye infone mase<br />Kadung jeru tresnoku neng dek e</p><p><br />Seng kono good looking mase<br />Neng kene mung spek e wong kere<br />Terus aku kudu piye<br />Opo yo kudu cidro slawase</p><p><br />Tak suguhi ati dudu kopi<br />Nanging bedo nglarani<br />Tak sanggane dewe lamun iki<br />Wes ndak kuat mase</p><p><br />Yo ndak mampu aku dudu spek idamanmu<br />Nuruti karepmu<br />Aku ninu ninu ninu</p><p><br />Yo ndak mampu aku dudu spek idamanmu<br />Nuruti karepm<br />Aku ninu ninu ninu</p><p><br />Nganti ndangak ndangak mase<br />Aku kalah sak sembarangane<br />Trus piye infone mase<br />Kadung jeru tresnoku neng dek e</p><p><br />Seng kono good looking mase<br />Neng kene mung spek e wong kere<br />Terus aku kudu piye<br />Opo yo kudu cidro slawase</p><p><br />Tak suguhi ati dudu kopi<br />Nanging tego nglarani<br />Tak sanggane dewe lamun iki<br />Wes ndak kuat mase</p><p><br />Yo ndak mampu aku dudu spek idamanmu<br />Nuruti karepmu<br />Aku ninu ninu ninu</p><p><br />Yo ndak mampu aku dudu spek idamanmu<br />Nuruti karepmu<br />Aku ninu ninu ninu</p>"
+	},
+	{
+      "id": 4,
+      "name_category": "ANYAR",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE4.mp3",
+      "lyrics": "<p>jelas bedo yen dibandingke<br />ora ono sing tak pamerke<br />aku raiso yen kon gawe gawe<br />jujur sak onone</p><p><br />sopo wonge sing ra loro ati<br />wes ngancani tekan semene<br />nanging kabeh ora ono artine<br />raono ajine</p><p><br />wong ko ngene kok dibanding-bandingke<br />saing-saingke yo mesti kalah<br />tak oyako aku yo ora mampu<br />mung sak kuatku mencintaimu</p><p><br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu</p><p><br />sopo wonge sing ra loro ati<br />wes ngancani tekan semene<br />nanging kabeh ora ono artine<br />raono ajine</p><p><br />wong ko ngene kok dibanding-bandingke<br />saing-saingke yo mesti kalah<br />tak oyako aku yo ora mampu<br />mung sak kuatku mencintaimu</p><p><br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu<br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "ANYAR",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE5.mp3",
+      "lyrics": "<p>joko tingkir ngombe dawet<br />jo dipikir marai mumet<br />ngopek jamur nggone mbah wage<br />pantang mundur terus nyambut gawe</p><p><br />ning kediri tuku ketan<br />iki cerito anak rantauan<br />lombok rawit pedes tenan<br />golek duwet kanggo masa depan</p><p><br />rokok klobot ning ngisor wit mlinjo<br />paling abot ninggal anak bojo<br />tuku donat ning kalimantan<br />tetep semangat kanggo masa depan</p><p><br />godong knikir godong koro<br />ojo dipikir aku arep ngliyo<br />mangan jamur mangan koro<br />aku jujur kowe ra percoyo</p><p><br />joko tingkir ngombe dawet<br />jo dipikir marai mumet<br />ngopek jamur nggone mbah wage<br />pantang mundur terus nyambut gawe</p><p><br />ning kediri tuku ketan<br />iki cerito anak rantauan<br />lombok rawit pedes tenan<br />golek duwet kanggo masa depan</p><p>rokok klobot ning ngisor wit mlinjo<br />paling abot ninggal anak bojo<br />tuku donat ning kalimantan<br />tetep semangat kanggo masa depan</p><p>godong knikir godong koro<br />ojo dipikir aku arep ngliyo<br />mangan jamur mangan koro<br />aku jujur kowe ra percoyo</p><p><br />joko tingkir ngombe dawet<br />jo dipikir marai mumet<br />ngopek jamur nggone mbah wage<br />pantang mundur terus nyambut gawe</p><p><br />ning kediri tuku ketan<br />iki cerito anak rantauan<br />lombok rawit pedes tenan<br />golek duwet kanggo masa depan</p><p>rokok klobot ning ngisor wit mlinjo<br />paling abot ninggal anak bojo<br />tuku donat ning kalimantan<br />tetep semangat kanggo masa depan</p><p><br />godong knikir godong koro<br />ojo dipikir aku arep ngliyo<br />mangan jamur mangan koro<br />aku jujur kowe ra percoyo</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "ANYAR",
+      "title": "TETEG ATI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE6.mp3",
+      "lyrics": "<p>ning pungkasan srengenge sore iki<br />atiku iseh roso sumpek<br />nanging sempet mikerke sliramu<br />sing tak tresnani</p><p><br />ning pungkasan rembulan wengi iki<br />atiku iseh milih berjuang bertahan<br />korban ati perasaan kanggo sliramu</p><p>koco iki dadi seksi pedihe atiku<br />kowe gawe ati sing tak jogo dadi gelo<br />bola bali kowe sing salah<br />nanging aku sing disalahke e</p><p><br />mas perlu dingerteni<br />tetegke atiku wis koyo ibumu<br />ora tau nggersulo ngadepi polahmu<br />sing nggawe atiku atiku tatu</p><p><br />ning pungkasan srengenge sore iki<br />atiku iseh roso sumpek<br />nanging sempet mikerke sliramu<br />sing tak tresnani</p><p><br />koco iki dadi seksi pedihe atiku<br />kowe gawe ati sing tak jogo dadi gelo<br />bola bali kowe sing salah<br />nanging aku sing disalahke eii</p><p><br />wis rapopo aku sing disalahno<br />tapi elingo cen aku sing lilo<br />dadi payung naliko udane teko</p><p><br />mas perlu dingerteni<br />tetegke atiku wis koyo ibumu<br />ora tau nggersulo ngadepi polahmu<br />sing nggawe atiku atiku tatu</p><p><br />senajan kowe mung nyepelekke<br />nanging ati iki tetep tak kuatke<br />sumpah ati iki<br />setiyoku mung kanggo kowe<br />selawase bebarengan karo kowe<br />selawase ora bakal tak liyakke<br />selawase tetep teteg atine</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "ANYAR",
+      "title": "CIDRO 3",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE7.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "ANYAR",
+      "title": "MADIUN NGAWI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE8.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 9,
+      "name_category": "ANYAR",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE9.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 10,
+      "name_category": "ANYAR",
+      "title": "PELAS TERI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "ANYAR",
+      "title": "ANGEL",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE11.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 12,
+      "name_category": "ANYAR",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE12.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 13,
+      "name_category": "ANYAR",
+      "title": "LDR",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE13.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 14,
+      "name_category": "ANYAR",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE14.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "ANYAR",
+      "title": "WES TATAS",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE15.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 16,
+      "name_category": "ANYAR",
+      "title": "MENUNGSO ORA TOTO",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/RJAGE16.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE17.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "TEPUNG KANJI",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE18.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "SING TAK SAYANG ILANG",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE19.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "BANYU MOTO",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "DITINGGAL PAS SAYANG SAYANGE",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE21.mp3",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "NINGGAL TATU",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE22.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "OJO NESU",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE23.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "TATU",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE24.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "TITIPANE GUSTI",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE25.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "YO WIS MDARO",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE26.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE27.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "SEPINE WENGI",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE28.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 29,
+      "name_category": "LENGKAP",
+      "title": "TAK IKHLASNBO",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE29.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 30,
+      "name_category": "LENGKAP",
+      "title": "SAMBEL TERASI",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "LENGKAP",
+      "title": "KANGEN NICKERI",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE31.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 32,
+      "name_category": "LENGKAP",
+      "title": "BALIK KANAN WAE",
+      "image": "file:///android_asset/image/RL.png",
+      "link_mp3": "mp3/RJAGE32.mp3",
+      "lyrics": ""
+	}
+  ]
+}
